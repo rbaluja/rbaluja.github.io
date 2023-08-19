@@ -56,11 +56,9 @@ author:
   name   : "Robert Baluja"
   avatar : "/assets/images/bio-photo.jpg"
   icon : "fas fa-temperature-high"
-  bio : Economics PhD Student \n University of Arizona
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/robertbaluja"
+  bio : "Economics PhD Student \n University of Arizona"
+  location: "Tucson, AZ"
+  
 
 defaults:
   # _pages
