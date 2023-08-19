@@ -55,7 +55,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   icon : "fas fa-temperature-high"
   location: "Tucson, AZ"
-  
+  bio: "Economics PhD Student <br> University of Arizona"
 
 defaults:
   # _pages
