@@ -63,9 +63,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rbaluja"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:robertbaluja@gmail.com"
 
 defaults:
   # _pages
