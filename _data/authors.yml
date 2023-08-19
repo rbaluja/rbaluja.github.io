@@ -1,0 +1,13 @@
+author:
+  name   : "Robert Baluja"
+  avatar : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rbaluja"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rbaluja"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:robertbaluja@gmail.com"
