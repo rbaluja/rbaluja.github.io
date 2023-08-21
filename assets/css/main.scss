@@ -8,8 +8,8 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@media(min-width: 80em) {
-
+@media {
+(min-width: 80em)
 .author__avatar {
 display: table-cell;
 vertical-align: top;
