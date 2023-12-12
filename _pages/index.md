@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-I am a fourth-year PhD student in the Department of Economics at the University of Arizona.  
+I am a fourth-year PhD candidate in the Department of Economics at the University of Arizona.  
 
 My primary research interests are in environmental economics and empirical microeconomics.
 
