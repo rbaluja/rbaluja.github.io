@@ -14,6 +14,7 @@ display: table-cell;
 vertical-align: top;
 width: 80px; 
 height: 80px; 
+opacity: 1;
 
 @include breakpoint($large) {
 display: block;
@@ -24,6 +25,7 @@ height: auto;
 img {
 max-width: 175px; //original: 110px
 border-radius: 0%;
+opacity: 1;
 
 @include breakpoint($large) {
   padding: 5px;
