@@ -6,63 +6,46 @@
    Default
    ========================================================================== */
 
-.sidebar {
+sidebar {
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
+
   @include clearfix();
-  // @include breakpoint(max-width $large) {
-  //   /* fix z-index order of follow links */
-  //   position: relative;
-  //   z-index: 10;
-  //   -webkit-transform: translate3d(0, 0, 0);
-  //   transform: translate3d(0, 0, 0);
-  // }
+  margin-bottom: 1em;
 
   @include breakpoint($large) {
-    float: left;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
+    @include span(2 of 12);
     opacity: 1;
+    -webkit-transition: opacity 0.2s ease-in-out;
+            transition: opacity 0.2s ease-in-out;
 
-
-    &.sticky {
-      overflow-y: auto;
-      /* calculate height of nav list
-         viewport height - nav height - masthead x-padding
-      */
-      max-height: calc(100vh - #{$nav-height} - 2em);
+    &:hover {
+      opacity: 1;
     }
   }
 
+
   @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
+    padding-right: 0;
   }
 
-  > * {
-    margin-top: 1em;
-    margin-bottom: 1em;
-  }
-
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
   }
 
-  p,
-  li {
+  h3, h4 {
+    font-size: $type-size-5;
+  }
+
+  p, li {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
 
   img {
-    width: 200%;
-
-    &.emoji {
-      width: 20px;
-      height: 20px;
-    }
+    width: 100%;
   }
 }
 
@@ -70,51 +53,17 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: absolute;
-    top: 0;
-    right: 0;
+    position: relative;
+    float: right;
     width: $right-sidebar-width-narrow;
-    margin-right: -1 * $right-sidebar-width-narrow;
-    padding-left: 1em;
+    margin-left: span(0.5 of 12);
     z-index: 10;
-
-    &.sticky {
-      @include clearfix();
-      position: -webkit-sticky;
-      position: sticky;
-      top: 2em;
-      float: right;
-
-      .toc {
-        .toc__menu {
-          overflow-y: auto;
-          max-height: calc(100vh - 7em);
-        }
-      }
-    }
   }
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
-    margin-right: -1 * $right-sidebar-width;
   }
 }
-
-.splash .sidebar__right {
-  @include breakpoint($large) {
-    position: relative;
-    float: right;
-    margin-right: 0;
-  }
-
-  @include breakpoint($x-large) {
-    margin-right: 0;
-  }
-}
-
-/*
-   Author profile and links
-   ========================================================================== */
 
 /*
    Author profile and links
