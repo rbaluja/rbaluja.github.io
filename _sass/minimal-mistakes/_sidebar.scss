@@ -46,6 +46,7 @@ sidebar {
 
   img {
     width: 100%;
+   opacity: 1;
   }
 }
 
@@ -73,6 +74,7 @@ sidebar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
+   opacity: 1;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -232,6 +234,7 @@ sidebar {
 
     &:hover {
       text-decoration: underline;
+       opacity: 1;
     }
   }
 }
