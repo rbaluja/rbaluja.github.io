@@ -10,5 +10,5 @@ authorprofile: true
 <em>“The Impact of Maternal Exposure to PFAS on Infant Health Outcomes” </em> - with [Wesley Howden](http://wesleyhowden.com), [Bo Guo](https://guolab.arizona.edu), [Ashley Langer](https://www.ashleylanger.com), [Derek Lemoine](https://www.dereklemoine.com)  
 
 
-<h2>Works in Progress</h2>
+<h2>Work in Progress</h2>
 <em>"Financing Resilience: The Role of Credit Access in Climate Adaptation"</em>
