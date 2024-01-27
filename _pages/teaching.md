@@ -5,7 +5,7 @@ authorprofile: true
 
 <h2>Instructor of Record</h2>
 <ul> 
-  <li>Basic Economic Issues (Summer 2023) <a href="assets/sr23_200rev.pdf">Teaching Evaluation</a></li>
+  <li>Basic Economic Issues (Summer 2023) <a href="https://www.robertbaluja.com/assets/sr23_200rev.pdf">Teaching Evaluation</a></li>
 </ul>
 
 <h2>Teaching Assistant</h2>
