@@ -36,3 +36,12 @@ border-radius: 0%;
 }
 }
 }
+
+@media (min-width: 64em) {
+  .sidebar {
+    opacity: 1 !important;
+    -webkit-transition: none !important;
+    transition: none !important;
+  }
+}
+
