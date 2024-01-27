@@ -1,0 +1,21 @@
+---
+permalink: /teaching/
+authorprofile: true
+---
+
+<h2>Instructor of Record</h2>
+<ul> 
+  <li>Basic Economic Issues (Summer 2023) <a href="assets/sr23_200rev.pdf">Teaching Evaluation</a></li>
+</ul>
+
+<h2>Teaching Assistant</h2>
+<ul>
+    <li>Environmental Economics (Spring 2024)</li>
+    <li>Economics of Sports (Spring 2023)</li>
+    <li>PhD Mathematics for Economists (Fall 2021, Fall 2022)</li>
+    <li>PhD Math Camp (Summer 2022)</li>
+    <li>Climate Science & Economics: How Should Policy Control Warming? (Fall 2021)</li>
+    <li>Economics of Strategy (Spring 2021, Fall 2021)</li>
+    <li>Basic Economic Issues (Fall 2020)</li>
+</ul>
+
