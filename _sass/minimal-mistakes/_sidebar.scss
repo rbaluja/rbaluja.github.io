@@ -10,10 +10,6 @@ sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
-  img {
-    border: none;
-  }
-
   @include clearfix();
   margin-bottom: 1em;
 
@@ -94,7 +90,7 @@ sidebar {
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: none;
     }
   }
 }
