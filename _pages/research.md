@@ -6,7 +6,7 @@ authorprofile: true
 
 <h2>Working Papers</h2>
 <em>“Migration in a Warming World: The Dynamics of Migration within Mexico”</em>  
-  <br /> <br />
+  <br /> 
 <em>“PFAS in Drinking Water Wells Cause Preterm and Low-Weight Births” </em> - with [Bo Guo](https://guolab.arizona.edu), [Wesley Howden](http://wesleyhowden.com), [Ashley Langer](https://www.ashleylanger.com), [Derek Lemoine](https://www.dereklemoine.com)  
 
 
