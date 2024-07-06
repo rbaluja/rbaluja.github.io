@@ -5,6 +5,7 @@ authorprofile: true
 
 <h2>Instructor of Record</h2>
 <ul> 
+  <li>Macroeconomic and Global Institutions and Policy (Summer 2024) <a href="https://www.robertbaluja.com/assets/sr24_330rev.pdf">Teaching Evaluation</a></li>
   <li>Basic Economic Issues (Summer 2023) <a href="https://www.robertbaluja.com/assets/sr23_200rev.pdf">Teaching Evaluation</a></li>
 </ul>
 
