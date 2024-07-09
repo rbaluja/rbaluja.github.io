@@ -1,8 +1,8 @@
 ---
 permalink: /
 ---
-I am a fourth-year PhD candidate in the Department of Economics at the University of Arizona.  
+Welcome! I am an applied microeconomist with research interests in environmental economics and industrial organization. I am currently a Ph.D. candidate in the Department of Economics at the University of Arizona.  
 
-My primary research interests are in environmental economics and empirical microeconomics.
+I will be on the economics job market in the fall (A.Y. 2024-2025).
 
 You can contact me at [RobertBaluja@gmail.com](mailto:RobertBaluja@gmail.com)
