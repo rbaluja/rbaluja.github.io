@@ -5,4 +5,4 @@ Welcome! I am an applied microeconomist with research interests in environmental
 
 I will be on the economics job market in the fall (A.Y. 2024-2025).
 
-You can contact me at [RobertBaluja@gmail.com](mailto:RobertBaluja@gmail.com)
+You can contact me at [RobertBaluja@gmail.com](mailto:RobertBaluja@gmail.com).
