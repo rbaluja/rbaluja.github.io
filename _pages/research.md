@@ -6,7 +6,6 @@ authorprofile: true
 
 <h2>Working Papers</h2>
 <b>Escape the Heat: Migration as Adaptation to Climate Change</b>  
-  <br /> 
   <p>Abstract: Climate change will lead to large changes in global weather patterns and extreme
   events. The damages from such changes will be spatially heterogeneous, implying
   that migration can be a valuable form of adaptation. Its
@@ -26,7 +25,6 @@ authorprofile: true
   never-movers. This highlights the importance of considering the dynamic option
   value of future opportunities when designing policy to aid costly adaptation.</p>
 <b>PFAS-Contaminated Drinking Water Harms Infants</b> (Submitted) - with [Bo Guo](https://guolab.arizona.edu), [Wesley Howden](http://wesleyhowden.com), [Ashley Langer](https://www.ashleylanger.com), [Derek Lemoine](https://www.dereklemoine.com)  
-<br /> 
   <p>Abstract: There is evidence of widespread human exposure to per- and polyfluoroalkyl substances (PFAS) but limited evidence of human health impacts. Using data on all New Hampshire births from 2010–2019, we show that receiving water that has flowed beneath a PFAS-contaminated site increases first-year infant mortality by 161% [95% CI: 70–251%], the chance of a birth before 28 weeks of gestational age by 120% [95% CI: 30–210%], and the chance of birthweight below 1,000 g by 152% [95% CI: 48–257%]. Extrapolating to the contiguous U.S., PFAS contamination imposes annual social costs of approximately $8 billion. These health costs are substantially larger than the cost of removing PFAS from the public water supply.</p>
   
 <h2>Work in Progress</h2>
