@@ -5,7 +5,7 @@ authorprofile: true
 
 
 <h2>Working Papers</h2>
-<b>Escape the Heat: Migration as Adaptation to Climate Change</b>  
+<b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b>  
   <p>Abstract: Climate change will lead to large changes in global weather patterns and extreme
   events. The damages from such changes will be spatially heterogeneous, implying
   that migration can be a valuable form of adaptation. Its
