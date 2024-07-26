@@ -10,7 +10,7 @@ authorprofile: true
 such changes will be spatially heterogeneous, implying that migration can be a valuable form of adaptation.
 Its value and responsiveness to diﬀerent policy levers are open empirical questions. To provide answers, I
 specify and estimate a dynamic life-cycle model of migration within Mexico. I combine the life-cycle model
-with a non-stationary and spatially heterogeneous model of the climate, and allow for both myopia and fully
+with a non-stationary and spatially heterogeneous model of the climate, and allow for both myopic and fully
 informed and rational expectations of its future progression. Estimation makes use of a rich sample of life
 histories, covering the years 1950–2019, and follows a nested full-solution pseudo-maximum likelihood
 routine. I combine the estimated model with full-count census data to simulate forward population
