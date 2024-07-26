@@ -11,10 +11,11 @@ authorprofile: true
   that migration can be a valuable form of adaptation. Its
   value and responsiveness to different policy levers are open
   empirical questions. To provide answers, I specify and estimate a dynamic life-cycle model of
-  migration within Mexico, with an estimated portion of the population aware of a non-stationary and spatially heterogeneous climate. Estimation
+  migration within Mexico. I combine the life-cycle model with a non-stationary and spatially heterogeneous model of the climate, and allow for both myopia and fully-informed and rational expectations of it's future progression.  
+    Estimation
   makes use of a rich sample of life histories, covering the years 1950-2019,
   and follows a nested full-solution pseudo-maximum likelihood
-  routine. I combine the estimated model with full-count census data to simulate
+  routine.  I combine the estimated model with full-count census data to simulate
  forward population movements through 2038 under a variety of counterfactual scenarios. Under
   business-as-usual, I find that
   migration reduces climate damages in Mexico by 29%, with large heterogeneity
