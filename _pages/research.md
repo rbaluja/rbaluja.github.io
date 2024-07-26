@@ -11,7 +11,7 @@ authorprofile: true
   that migration can be a valuable form of adaptation. Its
   value and responsiveness to different policy levers are open
   empirical questions. To provide answers, I specify and estimate a dynamic life-cycle model of
-  migration within Mexico, with individuals aware of a non-stationary and spatially heterogeneous climate. Estimation
+  migration within Mexico, with an estimated portion of the population aware of a non-stationary and spatially heterogeneous climate. Estimation
   makes use of a rich sample of life histories, covering the years 1950-2019,
   and follows a nested full-solution pseudo-maximum likelihood
   routine. I combine the estimated model with full-count census data to simulate
