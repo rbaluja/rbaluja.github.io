@@ -14,7 +14,7 @@ model of the climate which varies throughout the country, and I allow for
 individuals to form either sophisticated or naive expectations of its future
 progression. Estimation of the model uses a sample of life histories,
 covering the years 1950-2019, and follows a nested full-solution pseudo-maximum
-likelihood routine. I combine the estimated model with full-count census data to
+likelihood routine. I combine the estimated model with full-count Census data to
 simulate forward population movements through 2080 under a variety of
 counterfactual scenarios. First, I find that predicted warming under a
 business-as-usual climate scenario will lead to an increase in the value of
