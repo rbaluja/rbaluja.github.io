@@ -15,7 +15,7 @@ Estimation of the model uses a sample of life histories,
 covering the years 1950-2019, and follows a nested full-solution pseudo-maximum
 likelihood routine. I find that predicted warming under a
 business-as-usual climate scenario will lead to an increase in the value placed on
-the ability to migrate domestically of over 69% across a single generation. I also use the model to understand the value of information on the climate system. I find that climate-naive individuals are willing to pay an average of $1,120, across their lifetime, to obtain correct information on the climate transition, under business-as-usual warming. This 
+the ability to migrate domestically of over 69% across a single generation. I also use the model to understand the value of information on the climate system. I find that climate-naive individuals are willing to pay an average of $1,120, over their lifetime, to obtain correct information on the climate transition, under business-as-usual warming. This 
 has important policy implications for the design of information campaigns to aid in climate adaptation.</p>
 <b>PFAS-Contaminated Drinking Water Harms Infants</b> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
 <br style="line-height: 5px" /> In revision for <i>Science </i>
