@@ -5,4 +5,7 @@ main:
     url: /teaching/
   - title: "CV"
     url: /assets/cv.pdf
+
+classes: wide
+
   
