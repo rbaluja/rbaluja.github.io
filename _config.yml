@@ -20,6 +20,8 @@ url: "https://robertbaluja.com"
 minimal_mistakes_skin: default
 repository: rbaluja/rbaluja.github.io
 search: false
+classes: wide
+
 
 # Build settings
 markdown: kramdown
