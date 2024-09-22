@@ -7,7 +7,7 @@ authorprofile: true
 <h2>Working Papers</h2>
 <b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b> (Job Market Paper)
 <br style="line-height: 5px" />
-  <p>Abstract:To understand the effectiveness of migration in limiting exposure to
+  <p>Abstract: To understand the effectiveness of migration in limiting exposure to
 future climate damages, I specify and estimate a dynamic lifecycle model of
 migration within Mexico. I combine this with a non-stationary and
 spatially-varying model of the climate, of which I allow for both fully-informed
