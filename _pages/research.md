@@ -25,7 +25,7 @@ in climate adaptation. I further use the model to understand the different
 incentives that are created by the dynamic structure of policy. I find that
 dynamic considerations are of first-order concern when seeking to encourage
 actions that are costly, infrequently chosen, and available more than once. I
-find that the option value, from non-migrants, of a $100 reductions in the moving
+find that the option value, from non-migrants, of a dynamically-available $100 reduction in moving
 cost increases by 16% between the 2020 and 2038 cohorts, under
 business-as-usual warming.</p>
 <b>PFAS-Contaminated Drinking Water Harms Infants</b> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
