@@ -12,7 +12,7 @@ future climate damages, I specify and estimate a dynamic lifecycle model of
 migration within Mexico. I combine this with a non-stationary and
 spatially-varying model of the climate, of which I allow for both fully-informed
 and naive expectations of the future progression. Estimation of the model uses a
-sample of life histories, covering the years 1950--2019, and follows a nested
+sample of life histories, covering the years 1950-2019, and follows a nested
 full-solution pseudo-maximum likelihood routine. I find that predicted warming
 under a business-as-usual climate scenario will lead to an increase in the value
 placed on the ability to migrate domestically of 70% across a single
