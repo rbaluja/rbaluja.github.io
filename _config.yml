@@ -70,3 +70,9 @@ defaults:
       classes: wide
 
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
+head_scripts:
+  - /assets/css/custom.css  # Jekyll will compile this from custom.scss
