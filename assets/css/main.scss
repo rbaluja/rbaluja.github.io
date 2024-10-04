@@ -59,17 +59,16 @@ border-radius: 0%;
 
 // New footer styles
 .page__footer {
+  .page__footer-follow,
+  .page__footer-copyright,
   .page__footer-content {
-    max-width: 90%;
-    margin-left: 0;
-    text-align: left;
-  }
-
-  .page__footer-follow {
-    text-align: left;
-  }
-
-  .page__footer-copyright {
-    text-align: left;
+    max-width: 90% !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+    text-align: left !important;
+    
+    ul, li, p, div {
+      text-align: left !important;
+    }
   }
 }
