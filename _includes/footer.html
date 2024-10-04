@@ -1,34 +1,28 @@
-<div id="footer" class="page__footer">
-  <footer>
-    <div style="max-width: 90%; margin-left: 0; margin-right: auto; text-align: left;">
-      <div style="text-align: left;">
-        <ul style="list-style: none; padding-left: 0; display: flex; justify-content: flex-start;">
-          {% if site.data.ui-text[site.locale].follow_label %}
-            <li style="margin-right: 10px;"><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+div class="page__footer-content">
+  <div class="page__footer-follow">
+    <ul class="social-icons">
+      {% if site.data.ui-text[site.locale].follow_label %}
+        <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+      {% endif %}
+  
+      {% if site.footer.links %}
+        {% for link in site.footer.links %}
+          {% if link.label and link.url %}
+            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
           {% endif %}
-      
-          {% if site.footer.links %}
-            {% for link in site.footer.links %}
-              {% if link.label and link.url %}
-                <li style="margin-right: 10px;"><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-              {% endif %}
-            {% endfor %}
-          {% endif %}
-      
-          {% unless site.atom_feed.hide %}
-          {% endunless %}
-        </ul>
-      </div>
-      
-      <div style="text-align: left; margin-top: 1em;">
-        <a href="https://github.com/rbaluja" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-          <i class="fab fa-github"></i> GitHub
-        </a>
-      </div>
-      
-      <div style="text-align: left; margin-top: 1em;">
-        &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
-      </div>
-    </div>
-  </footer>
+        {% endfor %}
+      {% endif %}
+  
+      {% unless site.atom_feed.hide %}
+      {% endunless %}
+    </ul>
+  </div>
+  
+  <div class="page__footer-github">
+    <a href="https://github.com/rbaluja" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-github"></i> GitHub
+    </a>
+  </div>
+  
+  <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 </div>
