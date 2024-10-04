@@ -1,30 +1,11 @@
-#footer.page__footer {
-  text-align: left;
+.page__footer-follow,
+.page__footer > a,
+.page__footer-copyright {
+  max-width: 100% !important;
+  text-align: left !important;
+  padding-left: 1em !important;
 }
 
-#footer.page__footer footer {
-  max-width: 90%;
-  margin-left: 0;
-  margin-right: auto;
-}
-
-#footer.page__footer .page__footer-content,
-#footer.page__footer .page__footer-follow,
-#footer.page__footer .page__footer-github,
-#footer.page__footer .page__footer-copyright {
-  text-align: left;
-  margin-left: 0;
-}
-
-#footer.page__footer .page__footer-follow ul.social-icons {
-  justify-content: flex-start;
-  padding-left: 0;
-}
-
-#footer.page__footer .page__footer-github {
-  margin-top: 1em;
-}
-
-#footer.page__footer .page__footer-copyright {
-  margin-top: 1em;
+.page__footer-follow ul {
+  justify-content: flex-start !important;
 }
