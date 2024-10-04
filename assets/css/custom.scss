@@ -1,26 +1,31 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 // Your custom styles here
 .page__footer {
-  text-align: left !important;
-  
-  .page__footer-follow ul {
-    text-align: left !important;
-    justify-content: flex-start !important;
+  .page__footer-content {
+    text-align: left;
+    max-width: 90%;
+    margin-left: 0;
+    margin-right: auto;
   }
-  
+
+  .page__footer-follow {
+    text-align: left;
+    
+    ul.social-icons {
+      justify-content: flex-start;
+      padding-left: 0;
+    }
+  }
+
+  .page__footer-github {
+    text-align: left;
+    margin-top: 1em;
+  }
+
   .page__footer-copyright {
-    text-align: left !important;
+    text-align: left;
+    margin-top: 1em;
   }
-  
-  > a {
-    text-align: left !important;
-    display: block !important;
-  }
-  
 }
