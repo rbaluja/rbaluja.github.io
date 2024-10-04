@@ -69,10 +69,5 @@ defaults:
       author_profile: true
       classes: wide
 
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
 head_scripts:
-  - /assets/css/custom.css  # Jekyll will compile this from custom.scss
+  - /assets/css/custom.css
