@@ -5,7 +5,19 @@ search: false
 
 $intro-transition  : none;
 $global-transition : none;
+$max-width:100%;
 @charset "utf-8";
+
+/* type scale */
+$type-size-1 : 2.4em;  // ~39.056px
+$type-size-2 : 1.9em;  // ~31.248px
+$type-size-3 : 1.5em;  // ~25.008px
+$type-size-4 : 1.2em;   // ~20px
+$type-size-5 : 1em;      // ~16px
+$type-size-6 : 0.7em;   // ~12px
+$type-size-7 : 0.68em; // ~11px
+$type-size-8 : 0.6em;  // ~10px
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
