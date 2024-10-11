@@ -1,7 +1,7 @@
---
+---
 permalink: /research/
 authorprofile: true
---
+---
 
 
 <h2>Working Papers</h2>
