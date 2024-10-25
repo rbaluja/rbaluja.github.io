@@ -5,7 +5,7 @@ authorprofile: true
 
 
 <h2>Working Papers</h2>
-<b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b> (Job Market Paper)
+<a href ="https://www.robertbaluja.com/assets/eth_paper.pdf"><b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b></a> (Job Market Paper)
 <br style="line-height: 5px" />
   <p>Abstract: Climate change will continue to cause large-scale changes to global
 weather patterns and extreme events. Migration has the potential to be a
