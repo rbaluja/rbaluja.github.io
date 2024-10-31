@@ -2,6 +2,7 @@
 permalink: /teaching/
 authorprofile: true
 ---
+<a href ="https://www.robertbaluja.com/assets/t_statement.pdf"><b>Teaching Statement</b></a>
 
 <h2>Instructor of Record</h2>
 <ul> 
@@ -20,5 +21,3 @@ authorprofile: true
     <li>Economics of Strategy (Spring 2021, Fall 2021)</li>
     <li>Basic Economic Issues (Fall 2020)</li>
 </ul>
-
-<a href ="https://www.robertbaluja.com/assets/t_statement.pdf"><b>Teaching Statement</b></a>

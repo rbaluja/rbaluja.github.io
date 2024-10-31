@@ -2,7 +2,7 @@
 permalink: /research/
 authorprofile: true
 ---
-
+<a href ="https://www.robertbaluja.com/assets/research_statement.pdf"><b>Research Statement</b></a>
 
 <h2>Working Papers</h2>
 <a href ="https://www.robertbaluja.com/assets/eth_paper.pdf"><b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b></a> (Job Market Paper)
@@ -39,5 +39,3 @@ routine.</p>
 <b>PFAS-Contaminated Drinking Water Harms Infants</b> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
 <br style="line-height: 5px" /> In revision for <i>Science </i>
   <p>Abstract: There is evidence of widespread human exposure to per- and polyfluoroalkyl substances (PFAS) but limited evidence of human health impacts. Using data on all New Hampshire births from 2010–2019, we show that receiving water that has flowed beneath a PFAS-contaminated site increases first-year infant mortality by 161% [95% CI: 70–251%], the chance of a birth before 28 weeks of gestational age by 120% [95% CI: 30–210%], and the chance of birthweight below 1,000 g by 152% [95% CI: 48–257%]. Extrapolating to the contiguous U.S., PFAS contamination imposes annual social costs of approximately $8 billion. These health costs are substantially larger than the cost of removing PFAS from the public water supply.</p>
-
-<a href ="https://www.robertbaluja.com/assets/research_statement.pdf"><b>Research Statement</b></a>
