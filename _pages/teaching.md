@@ -21,3 +21,4 @@ authorprofile: true
     <li>Basic Economic Issues (Fall 2020)</li>
 </ul>
 
+<a href ="https://www.robertbaluja.com/assets/t_statement.pdf"><b>Teaching Statement</b></a>
