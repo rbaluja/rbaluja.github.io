@@ -2,7 +2,7 @@
 permalink: /research/
 authorprofile: true
 ---
-<a href ="https://www.robertbaluja.com/assets/research_statement.pdf"><b>Research Statement</b></a>
+<a href ="https://www.robertbaluja.com/assets/research_statement.pdf">Research Statement</a>
 
 <h2>Working Papers</h2>
 <a href ="https://www.robertbaluja.com/assets/eth_paper.pdf"><b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b></a> (Job Market Paper)

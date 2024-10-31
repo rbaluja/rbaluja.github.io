@@ -2,7 +2,7 @@
 permalink: /teaching/
 authorprofile: true
 ---
-<a href ="https://www.robertbaluja.com/assets/t_statement.pdf"><b>Teaching Statement</b></a>
+<a href ="https://www.robertbaluja.com/assets/t_statement.pdf">Teaching Statement</a>
 
 <h2>Instructor of Record</h2>
 <ul> 
