@@ -21,7 +21,7 @@ forming naive expectations of the climate system would experience an average of
 the climate transition. Given that most of the increased damages this population faces
 come from a reduced propensity to migrate, one way to reduce these losses is to
 subsidize migration. I find that subsidizing migration at the average level of the internality reduces their welfare losses by
-8-19%. The exact value of this reduction depends on whether the policy forces people to use the subsidy in a particular period. Policies that allow individuals to choose <i>when</i> to use them are over twice as valuable to the affected population because they do not overly incentivize dynamically suboptimal moves. This sort of policy is common; examples include provisions from the recent Inflation Reduction Act and first-time homeowners tax credits.</p>
+8-19%. The exact value of this reduction depends on whether the policy forces people to use the subsidy in a particular period. Policies that allow individuals to choose <i>when</i> to use them are over twice as valuable to the affected population because they do not overly incentivize dynamically suboptimal moves. This sort of dynamically-available policy is common; examples include provisions from the recent Inflation Reduction Act and first-time homeowners tax credits.</p>
 
 <b>PFAS-Contaminated Drinking Water Harms Infants</b> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
 <br style="line-height: 5px" /> In revision for <i>Science </i>
