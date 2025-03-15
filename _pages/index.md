@@ -7,4 +7,4 @@ I am an environmental economist with research interests in industrial organizati
 
 I will be joining Cornerstone Research, Los Angeles as an Associate.
 
-You can contact me at [RobertBaluja@gmail.com](mailto:RobertBaluja@gmail.com).
+You can contact me at RobertBaluja at gmail.
