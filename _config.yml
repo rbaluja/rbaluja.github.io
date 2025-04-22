@@ -56,8 +56,8 @@ favicon: /assets/images/icon.png
 author:
   name   : "Robert Baluja"
   avatar : "/assets/images/bio-photo.jpg"
-  location: "Tucson, AZ"
-  bio: "Economics PhD Candidate <br> University of Arizona"
+  location: "Los Angeles, CA"
+  bio: "Associate <br> Cornerstone Research"
 
 defaults:
   # _pages
