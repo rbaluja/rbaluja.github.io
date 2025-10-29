@@ -2,8 +2,13 @@
 permalink: /research/
 authorprofile: true
 ---
+<h2>Publications</h2>
+<b>PFAS-Contaminated Drinking Water Harms Infants</b> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
+<br style="line-height: 5px" /> Conditionally Accepted at The <i> Proceedings of the National Academy of Sciences </i>
+  <p>Abstract: There is evidence of widespread human exposure to per- and polyfluoroalkyl substances (PFAS) but limited evidence of the human health impacts of this exposure. Using data on New Hampshire births from 2010–2019, we show that mothers receiving water that had flowed beneath a PFAS-contaminated site, as opposed to comparable mothers receiving water that had flowed towards a PFAS-contaminated site, had 191% [95% CI: 83–298%] higher first-year infant mortality (611 [268–955] additional first-year deaths per 100k births); 168% [42–294%] more births before 28 weeks of gestational age (466 [116–817] additional such births per 100k births); and 180% [57–302%] more births with weight below 1,000 g (607 [192–1022] additional such births per 100k births). Extrapolating to the contiguous U.S., PFAS contamination imposes annual social costs of approximately $8 billion. These health costs are substantially larger than current outside estimates of the cost of removing PFAS from the public water supply.</p>
+
 <h2>Working Papers</h2>
-<a href ="https://www.robertbaluja.com/assets/eth_paper.pdf"><b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b></a> (Job Market Paper) [<a href="https://www.robertbaluja.com/assets/eth_slides.pdf">Slides</a>]
+<a href ="https://www.robertbaluja.com/assets/eth_paper.pdf"><b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b></a> [<a href="https://www.robertbaluja.com/assets/eth_slides.pdf">Slides</a>]
 <br style="line-height: 5px" />
   <p>Abstract: Earth's climate is changing, which is widely expected to drive net reductions to human welfare. In this paper, I study how effectively migration will reduce experienced climate damages. To provide answers to my research questions, I
 develop and estimate a dynamic lifecycle model of migration within Mexico. I
@@ -22,10 +27,6 @@ the climate transition. Given that most of the increased damages this population
 come from a reduced propensity to migrate, one way to reduce these losses is to
 subsidize migration. I find that subsidizing migration at the average level of the internality reduces their welfare losses by
 8-19%. The exact value of this reduction depends on whether the policy forces people to use the subsidy in a particular period. Policies that allow individuals to choose <i>when</i> to use them are over twice as valuable to the affected population because they do not overly incentivize dynamically suboptimal moves. This sort of dynamically-available policy is common; examples include provisions from the recent Inflation Reduction Act and first-time homeowners tax credits.</p>
-
-<b>PFAS-Contaminated Drinking Water Harms Infants</b> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
-<br style="line-height: 5px" /> Revisions requested at The <i> Proceedings of the National Academy of Sciences </i>
-  <p>Abstract: There is evidence of widespread human exposure to per- and polyfluoroalkyl substances (PFAS) but limited evidence of the human health impacts of this exposure. Using data on New Hampshire births from 2010–2019, we show that mothers receiving water that had flowed beneath a PFAS-contaminated site, as opposed to comparable mothers receiving water that had flowed towards a PFAS-contaminated site, had 191% [95% CI: 83–298%] higher first-year infant mortality (611 [268–955] additional first-year deaths per 100k births); 168% [42–294%] more births before 28 weeks of gestational age (466 [116–817] additional such births per 100k births); and 180% [57–302%] more births with weight below 1,000 g (607 [192–1022] additional such births per 100k births). Extrapolating to the contiguous U.S., PFAS contamination imposes annual social costs of approximately $8 billion. These health costs are substantially larger than current outside estimates of the cost of removing PFAS from the public water supply.</p>
 
 <h2>Work in Progress</h2>
 <b>Mitigating the Impact of Climate Change on Educational Outcomes</b>
