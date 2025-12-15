@@ -3,8 +3,9 @@ permalink: /research/
 authorprofile: true
 ---
 <h2>Publications</h2>
-<b>PFAS-Contaminated Drinking Water Harms Infants</b> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
-<br style="line-height: 5px" /> Conditionally Accepted at The <i> Proceedings of the National Academy of Sciences </i>
+<a href = https://www.pnas.org/doi/10.1073/pnas.2509801122> <b>PFAS-Contaminated Drinking Water Harms Infants</b> </a> - with Bo Guo, Wesley Howden, Ashley Langer, Derek Lemoine
+<br style="line-height: 5px" />  <i> Proceedings of the National Academy of Sciences </i> 122(50), December 8, 2025
+
   <p>Abstract: There is evidence of widespread human exposure to per- and polyfluoroalkyl substances (PFAS) but limited evidence of the human health impacts of this exposure. Using data on New Hampshire births from 2010–2019, we show that mothers receiving water that had flowed beneath a PFAS-contaminated site, as opposed to comparable mothers receiving water that had flowed towards a PFAS-contaminated site, had 191% [95% CI: 83–298%] higher first-year infant mortality (611 [268–955] additional first-year deaths per 100k births); 168% [42–294%] more births before 28 weeks of gestational age (466 [116–817] additional such births per 100k births); and 180% [57–302%] more births with weight below 1,000 g (607 [192–1022] additional such births per 100k births). Extrapolating to the contiguous U.S., PFAS contamination imposes annual social costs of approximately $8 billion. These health costs are substantially larger than current outside estimates of the cost of removing PFAS from the public water supply.</p>
 
 <h2>Working Papers</h2>
