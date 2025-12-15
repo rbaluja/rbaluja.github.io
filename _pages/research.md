@@ -10,7 +10,7 @@ authorprofile: true
 
 <h2>Working Papers</h2>
 <a href ="https://www.robertbaluja.com/assets/eth_paper.pdf"><b>Escape the Heat: The Dynamics of Migration as Adaptation to Climate Change</b></a> [<a href="https://www.robertbaluja.com/assets/eth_slides.pdf">Slides</a>]
-<br style="line-height: 5px" /> University of Arizona Department of Economics Working Paper
+<br style="line-height: 5px" /> University of Arizona Economics Working Paper
 
   <p>Abstract: Earth's climate is changing, which is widely expected to drive net reductions to human welfare. In this paper, I study how effectively migration will reduce experienced climate damages. To provide answers to my research questions, I
 develop and estimate a dynamic lifecycle model of migration within Mexico. I
